@@ -1,11 +1,12 @@
 ### ÓLA! EU SOU O JADSON ALMEIDA
 
 
-**Jadson Almeida
+**Jadson Almeida**
 
 - 🔭 Atualmente estou trabalhando como professor.
-- ⚡ Estudante de Análise e Desenvolvimento de Sistemas
-- 📫 Meu email: jadsonedvan@gmmail.com
+- ⚡ Estudante de Análise e Desenvolvimento de Sistemas.
+- 📫 Meu email: jadsonedvan@gmail.com  entre em contato.
+
 
 
 
