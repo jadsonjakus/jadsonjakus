@@ -1,7 +1,8 @@
 ### ÓLA! EU SOU O JADSON ALMEIDA
 **Jadson Almeida**
 - 🔭 Atualmente estou trabalhando como professor.
-- ⚡ Estudante de Análise e Desenvolvimento de Sistemas.
+- ⚡ Estudante de Análise e Desenvolvimento de Sistemas.<br>
+*   :mortar_board: Estudante de Gestão Financeira.
 - 📫 Meu email: jadsonedvan@gmail.com  entre em contato.
 <div align="center">
   <a href="https://github.com/jadsonjakus">
